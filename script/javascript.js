@@ -1,7 +1,7 @@
 /**
  * Created by Henk Van Der Klis on 18-11-2015.
  */
-alert("U gaat beginnen met het helpdeks formulier!");
+alert("U gaat beginnen met het helpdesk formulier!");
 vraagnaam();
 function vraagnaam() {
     naam= prompt("Wat is uw naam?");
